@@ -1,0 +1,1 @@
+export const env={"PUBLIC_API_KEY":"public","PUBLIC_DEV_STATUS":"DEV","PUBLIC_PATH_BASE":"/tsaak","PUBLIC_PATH_APP":"app","PUBLIC_APP_VERSION":"0.0.24"}

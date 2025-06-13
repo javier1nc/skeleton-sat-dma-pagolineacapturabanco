@@ -1,0 +1,40 @@
+{
+  "lines": [
+    {
+      "id": "ABCDEFGHIJKLMNOPQ001",
+      "name": "Joe Dot",
+      "amount": "1000.00"
+    },
+    {
+      "id": "ABCDEFGHIJKLMNOPQ002",
+      "name": "Scarlet Dot",
+      "amount": "4000.00"
+    }
+  ],
+  "linesPayments": [
+    {
+      "id": "ABCDEFGHIJKLMNOPQ001",
+      "name": "Joe Dot",
+      "bank": "banxico",
+      "cardEnd": "1234",
+      "date": "2025-10-01",
+      "amount": "1000.00",
+      "voucher": "001"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "body": "Great post!",
+      "postid": 1
+    },
+    {
+      "id": "2",
+      "body": "Informative!",
+      "postid": 2
+    }
+  ],
+  "profile": {
+    "name": "Amit Kumar"
+  }
+}

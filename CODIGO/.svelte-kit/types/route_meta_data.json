@@ -1,0 +1,69 @@
+{
+	"/": [
+		"src/routes/+page.ts",
+		"src/routes/+page.server.ts",
+		"src/routes/+layout.server.ts",
+		"src/routes/+layout.server.ts"
+	],
+	"/app/(inner)": [
+		"src/routes/+layout.server.ts"
+	],
+	"/app": [
+		"src/routes/+layout.server.ts",
+		"src/routes/+layout.server.ts"
+	],
+	"/app/calendario/[slug]": [
+		"src/routes/app/calendario/[slug]/+page.js",
+		"src/routes/+layout.server.ts"
+	],
+	"/app/(inner)/catalogo-tsaak": [
+		"src/routes/+layout.server.ts"
+	],
+	"/app/(inner)/consulta": [
+		"src/routes/+layout.server.ts"
+	],
+	"/app/(inner)/datos-alergias": [
+		"src/routes/+layout.server.ts"
+	],
+	"/app/(inner)/datos-direccion": [
+		"src/routes/+layout.server.ts"
+	],
+	"/app/(inner)/datos-generales": [
+		"src/routes/+layout.server.ts"
+	],
+	"/app/(inner)/datos-padecimientos": [
+		"src/routes/+layout.server.ts"
+	],
+	"/app/(inner)/docs-calendario": [
+		"src/routes/+layout.server.ts"
+	],
+	"/app/(inner)/docs-perfil": [
+		"src/routes/+layout.server.ts"
+	],
+	"/app/(inner)/docs-secciones": [
+		"src/routes/+layout.server.ts"
+	],
+	"/app/(inner)/expedientes": [
+		"src/routes/+layout.server.ts"
+	],
+	"/app/(inner)/get-started": [
+		"src/routes/+layout.server.ts"
+	],
+	"/app/(inner)/introduccion": [
+		"src/routes/+layout.server.ts"
+	],
+	"/app/(inner)/registros": [
+		"src/routes/+layout.server.ts"
+	],
+	"/app/(inner)/test": [
+		"src/routes/+layout.server.ts"
+	],
+	"/health": [
+		"src/routes/+layout.server.ts",
+		"src/routes/+layout.server.ts"
+	],
+	"/health/test/get": [
+		"src/routes/health/test/get/+page.js",
+		"src/routes/+layout.server.ts"
+	]
+}
